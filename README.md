@@ -1,8 +1,8 @@
 # Time Series Exercise 1: Plot a Time Series Data
 
-## Name: Aravindan T
+## Name: Nishal K
 
-## Roll no: 2305001003
+## Roll no: 2305001021
 
 ## Department: CSE
 
